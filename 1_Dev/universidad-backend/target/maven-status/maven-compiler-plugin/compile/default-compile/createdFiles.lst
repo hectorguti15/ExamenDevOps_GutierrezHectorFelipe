@@ -1,0 +1,17 @@
+com\hwongu\exception\CustomErrorResponse.class
+com\hwongu\repo\IPostgreRepo.class
+com\hwongu\service\ICRUDService.class
+com\hwongu\UniversidadBackendApplication.class
+com\hwongu\service\impl\AlumnoServiceImpl.class
+com\hwongu\controller\AlumnoController.class
+com\hwongu\exception\ModelNotFoundException.class
+com\hwongu\model\Alumno.class
+com\hwongu\config\MapperConfig.class
+com\hwongu\exception\GlobalErrorHandler.class
+com\hwongu\dto\AlumnoDTO.class
+com\hwongu\service\impl\CRUDImpl.class
+com\hwongu\config\MessageConfig.class
+com\hwongu\repo\IAlumnoRepo.class
+com\hwongu\config\JpaConfig.class
+com\hwongu\repo\impl\AlumnoRepoImpl.class
+com\hwongu\service\IAlumnoService.class

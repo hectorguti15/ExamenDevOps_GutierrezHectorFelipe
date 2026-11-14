@@ -1,0 +1,17 @@
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\config\JpaConfig.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\config\MapperConfig.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\config\MessageConfig.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\controller\AlumnoController.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\dto\AlumnoDTO.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\exception\CustomErrorResponse.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\exception\GlobalErrorHandler.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\exception\ModelNotFoundException.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\model\Alumno.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\repo\IAlumnoRepo.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\repo\impl\AlumnoRepoImpl.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\repo\IPostgreRepo.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\service\IAlumnoService.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\service\ICRUDService.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\service\impl\AlumnoServiceImpl.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\service\impl\CRUDImpl.java
+C:\Users\usistemas\Downloads\Examen02_DevOps\1_Dev\universidad-backend\src\main\java\com\hwongu\UniversidadBackendApplication.java
